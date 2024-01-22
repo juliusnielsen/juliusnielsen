@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.cntraveler.com/photos/646fac649b31895c2ec85c37/4:3/w_4608,h_3456,c_limit/Emirates%20Offering%20Free%20Hotel%20Stays%20This%20Summer%20to%20Passengers%20Flying%20to%20Dubai_emma-harrisova-UDsO83Ts6tQ-unsplash.jpg" width="100"/>
+  <img src="https://wallpapers.com/images/hd/orange-tinged-sky-of-dubai-4k-05brq1m3pz3y7o0p.jpg" width="100"/>
 </div>
 
 
