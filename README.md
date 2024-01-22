@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://wallpapers.com/images/hd/orange-tinged-sky-of-dubai-4k-05brq1m3pz3y7o0p.jpg" width="100"/>
+  <img src="https://wallpapers.com/images/hd/orange-tinged-sky-of-dubai-4k-05brq1m3pz3y7o0p.jpg" width="1920"/>
 </div>
 
 
