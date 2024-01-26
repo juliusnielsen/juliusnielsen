@@ -1,7 +1,4 @@
 ### Julius Nielsen, Fullstack Developer.
-<div id="header" align="center">
-  <img src="https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg" width="1920"/>
-</div>
 
 
 <!--
